@@ -1,0 +1,12 @@
+C:\Users\Apri Zal\source\repos\ProgramBelanjaSederhana\ProgramBelanjaSederhana\bin\Debug\ProgramBelanjaSederhana.exe.config
+C:\Users\Apri Zal\source\repos\ProgramBelanjaSederhana\ProgramBelanjaSederhana\bin\Debug\ProgramBelanjaSederhana.exe
+C:\Users\Apri Zal\source\repos\ProgramBelanjaSederhana\ProgramBelanjaSederhana\bin\Debug\ProgramBelanjaSederhana.pdb
+C:\Users\Apri Zal\source\repos\ProgramBelanjaSederhana\ProgramBelanjaSederhana\bin\Debug\ProgramBelanjaSederhana.xml
+C:\Users\Apri Zal\source\repos\ProgramBelanjaSederhana\ProgramBelanjaSederhana\obj\Debug\ProgramBelanjaSederhana.vbprojAssemblyReference.cache
+C:\Users\Apri Zal\source\repos\ProgramBelanjaSederhana\ProgramBelanjaSederhana\obj\Debug\ProgramBelanjaSederhana.Form1.resources
+C:\Users\Apri Zal\source\repos\ProgramBelanjaSederhana\ProgramBelanjaSederhana\obj\Debug\ProgramBelanjaSederhana.Resources.resources
+C:\Users\Apri Zal\source\repos\ProgramBelanjaSederhana\ProgramBelanjaSederhana\obj\Debug\ProgramBelanjaSederhana.vbproj.GenerateResource.cache
+C:\Users\Apri Zal\source\repos\ProgramBelanjaSederhana\ProgramBelanjaSederhana\obj\Debug\ProgramBelanjaSederhana.vbproj.CoreCompileInputs.cache
+C:\Users\Apri Zal\source\repos\ProgramBelanjaSederhana\ProgramBelanjaSederhana\obj\Debug\ProgramBelanjaSederhana.exe
+C:\Users\Apri Zal\source\repos\ProgramBelanjaSederhana\ProgramBelanjaSederhana\obj\Debug\ProgramBelanjaSederhana.xml
+C:\Users\Apri Zal\source\repos\ProgramBelanjaSederhana\ProgramBelanjaSederhana\obj\Debug\ProgramBelanjaSederhana.pdb
